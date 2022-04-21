@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Religion and Politics
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+Using data from the Cooperative Election Study, you will examine the relationship between religiosity (the strength of one's religious attachment in daily life) and political ideology. You will also examine whether this relationship varies by education level.
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the relationship between a person's religiosity and their political ideology (on a scale from liberal to conservative)?
+2. How does the relationship between religiosity and political ideology vary by education?
 
 ## Technical Details
 
